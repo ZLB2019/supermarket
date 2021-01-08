@@ -1,0 +1,14 @@
+
+o	java:S116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÙîî8î´ıŒí.
+o	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¢ıÚüÿÿÿÿ8Èëóì.
+w	java:S116!"VRename this field "ReturnLogin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß™Éûşÿÿÿÿ8î´ıŒí.
+S
+java:S26967"6Make the enclosing method "static" or remove this set.(à¨»µ8î´ıŒí.
+j	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜˜ ¿8Èëóì.
+y	java:S116"]Rename this field "registered_YesOrNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‡ÍË8î´ıŒí.
+X
+java:S26965"6Make the enclosing method "static" or remove this set.(€¼õ®úÿÿÿÿ8î´ıŒí.
+S
+java:S26966"6Make the enclosing method "static" or remove this set.(Ä»½œ8î´ıŒí.
+j	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¶Ò8Èëóì.
+{	java:S116"ZRename this field "ConfirmPassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÕ‚İûÿÿÿÿ8î´ıŒí.

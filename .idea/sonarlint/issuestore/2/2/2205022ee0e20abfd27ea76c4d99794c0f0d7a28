@@ -1,0 +1,22 @@
+
+m	java:S116"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÆ‘¨úÿÿÿÿ
+c	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„À¡
+h	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÃÖşÿÿÿÿ
+X
+java:S2696x"6Make the enclosing method "static" or remove this set.(€¼õ®úÿÿÿÿ8¡òÔÂì.
+x	java:S116""^Rename this field "load_no_return_load" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ûƒ¬øÿÿÿÿ
+h	java:S116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÑ§Ì
+h	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¨ıÆûÿÿÿÿ
+X
+java:S1128";Remove this unused import 'supermarket.ztr.model.JDBC.IDU'.(âä„º8¾½ı°í.
+u	java:S116"[Rename this field "RetrievePassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¡—˜ıÿÿÿÿ
+R
+java:S2696w"6Make the enclosing method "static" or remove this set.(¬îõ}8¡òÔÂì.
+d	java:S116 "ORename this field "Load" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ßØï
+r	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»íÀ’ùÿÿÿÿ8Âùìì.
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ÜÆÀüÿÿÿÿ8äİ‚’ì.
+X
+java:S2696v"6Make the enclosing method "static" or remove this set.(Ö¬Îæúÿÿÿÿ8¡òÔÂì.
+S
+java:S2696P"6Make the enclosing method "static" or remove this set.(³İæ‹8¡òÔÂì.

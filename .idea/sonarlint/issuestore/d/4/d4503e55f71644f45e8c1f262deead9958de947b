@@ -1,0 +1,19 @@
+
+e
+java:S2095%"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÓàÌÿ8°Èì°í.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ÊÛ‘Ñ8±Èì°í.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Š¥îİüÿÿÿÿ8°Èì°í.
+X
+java:S1128"6Remove this unused import 'supermarket.ztr.bean.User'.(‚ÚÀêûÿÿÿÿ8ß´î°í.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ş‰”ã8±Èì°í.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åì¨å
+i
+java:S2095&"GUse try-with-resources or close this "Statement" in a "finally" clause.(Âçºûÿÿÿÿ8°Èì°í.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡µˆ8±Èì°í.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®Ó£²üÿÿÿÿ8±Èì°í.
+K
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8ß´î°í.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß–è¯8±Èì°í.
+T
+java:S1128"7Remove this unused import 'supermarket.ztr.bean.Goods'.(‰ôî8ß´î°í.

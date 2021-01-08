@@ -1,0 +1,29 @@
+
+i
+java:S1192{"SDefine a constant instead of duplicating this literal "-fx-font-size : 15" 3 times.(åÓßÄ
+o
+java:S1192;"TDefine a constant instead of duplicating this literal "../view/prompt.fxml" 5 times.(õ®äûÿÿÿÿ
+Q	java:S110o"<This class has 9 parents which is greater than 5 authorized.(ğöÉ›
+`	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(ŸÛáÿÿÿÿÿ
+Q
+java:S1141–"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+C
+java:S1604e"(Make this anonymous inner class a lambda(ĞÜÃ²ûÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(¬¢‘Šüÿÿÿÿ
+?
+java:S1604·"(Make this anonymous inner class a lambda(â‰Ü‚
+l
+java:S1104+"QMake clist a static final constant or non-public and provide accessors if needed.(ˆÜã½úÿÿÿÿ
+M
+java:S1128"7Remove this unused import 'supermarket.ztr.bean.Goods'.(‰ôî
+c	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞøøÈ
+h	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¼ñºşÿÿÿÿ
+h
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(¦Ê—
+N
+java:S1117z"8Rename "name" which hides the field declared at line 37.(ó¥–
+D
+java:S1481‘"(Remove this unused "num" local variable.(†¬›Äûÿÿÿÿ

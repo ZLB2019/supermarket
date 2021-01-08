@@ -1,0 +1,37 @@
+
+l	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²áìp8Èºø°í.
+e
+java:S2095("HUse try-with-resources or close this "Connection" in a "finally" clause.(ÓàÌÿ8—ö°í.
+M
+java:S1481["0Remove this unused "UserMessage" local variable.(Áœµì8Œóú°í.
+i
+java:S2095a"GUse try-with-resources or close this "Statement" in a "finally" clause.(Âçºûÿÿÿÿ8Œóú°í.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ş‰”ã8¾ğö°í.
+i
+java:S2095)"GUse try-with-resources or close this "Statement" in a "finally" clause.(Âçºûÿÿÿÿ8—ö°í.
+e
+java:S2095`"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÓàÌÿ8Œóú°í.
+X
+java:S1854\"6Remove this useless assignment to local variable "rs".(ŒÇ›ğùÿÿÿÿ8Œóú°í.
+i
+java:S2095*"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ªâ‹‡şÿÿÿÿ8—ö°í.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß–è¯8¾ğö°í.
+b	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(æ¼‹æ8Œóú°í.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¿Û×…úÿÿÿÿ8—ö°í.
+i
+java:S2095F"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ªâ‹‡şÿÿÿÿ8Èºø°í.
+e
+java:S2095D"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÓàÌÿ8Èºø°í.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ãË”ô8—ö°í.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡µˆ8¾ğö°í.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®Ó£²üÿÿÿÿ8¾ğö°í.
+i
+java:S2095E"GUse try-with-resources or close this "Statement" in a "finally" clause.(Âçºûÿÿÿÿ8Èºø°í.
+Y
+java:S1854@"7Remove this useless assignment to local variable "sql".(É¶Õıÿÿÿÿ8Èºø°í.
+b	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(¶áèû8Èºø°í.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åì¨å
+m	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áœµì8Œóú°í.
+T
+java:S1854$"7Remove this useless assignment to local variable "sql".(«¨Ç8—ö°í.

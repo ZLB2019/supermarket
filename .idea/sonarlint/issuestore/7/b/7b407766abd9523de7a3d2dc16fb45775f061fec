@@ -1,0 +1,25 @@
+
+n
+java:S1192D"SDefine a constant instead of duplicating this literal "-fx-font-size : 15" 5 times.(¯Õæºûÿÿÿÿ
+j
+java:S1192i"TDefine a constant instead of duplicating this literal "../view/prompt.fxml" 3 times.(ğ‹š
+V	java:S1108"<This class has 9 parents which is greater than 5 authorized.(ÅÛ„‘ùÿÿÿÿ
+P
+java:S1141h"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141p"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+C
+java:S1604."(Make this anonymous inner class a lambda(¦ù†¥üÿÿÿÿ
+C
+java:S1604_"(Make this anonymous inner class a lambda(¬¢‘Šüÿÿÿÿ
+?
+java:S1604Š"(Make this anonymous inner class a lambda(â‰Ü‚
+g
+java:S1104"QMake ulist a static final constant or non-public and provide accessors if needed.(Òù²è
+m
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÛŒ¦…ıÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(Â–‘ö
+C
+java:S1481c"(Remove this unused "num" local variable.(†¬›Äûÿÿÿÿ
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(’ß€
+Q	java:S125W"<This block of commented-out lines of code should be removed.(òı§™

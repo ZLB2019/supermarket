@@ -1,0 +1,32 @@
+如何打开一个窗口
+
+登录：
+                new windows_screen(). NewWindows(new Stage(),"../view/login.fxml","登录",600,384);
+
+提示窗口：
+                new windows_screen(). NewWindows(new Stage(),"../view/prompt.fxml","提示",445,235);
+
+注册：
+                new windows_screen(). NewWindows(new Stage(),"../view/registered.fxml","注册",555,589);
+
+主页：
+                new windows_screen(). NewWindows(new Stage(),"../view/Main.fxml","开心超市",838,603);
+
+后台管理页面：
+                new windows_screen(). NewWindows(new Stage(),"../view/administrator.fxml","开心超市后台管理",960,688);
+
+添加商品：
+                new windows_screen(). NewWindows(new Stage(),"../view/addGoods.fxml","添加商品",493,643);
+
+注册成功：
+                new windows_screen().NewWindows(new Stage(), "../view/registered_Yes.fxml", "注册成功", 400, 200);
+
+购买记录（订单）
+                new windows_screen().NewWindows(new Stage(), "../view/order.fxml", "购买记录", 592, 435);
+
+分类管理：
+                new windows_screen().NewWindows(new Stage(), "../view/classManage.fxml", "分类管理", 592, 435);
+
+用户管理：
+                new windows_screen(). NewWindows(new Stage(),"../view/userManage.fxml","用户管理",470,582);
+

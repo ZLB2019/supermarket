@@ -1,0 +1,9 @@
+
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(ÊàÔüÿÿÿÿ8¹ğšì.
+
+java:S1130 "lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÊàÔüÿÿÿÿ8¹ğšì.
+o	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊàÔüÿÿÿÿ8”õ–ì.
+2
+java:S1700"Rename field "prompt"(ÕË•é8ÊÇ†±í.
+l	java:S116"PRename this field "Close" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ëÃ¹8ÊÇ†±í.
+v	java:S116"URename this field "prompt_add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒšÓÊşÿÿÿÿ8ÊÇ†±í.

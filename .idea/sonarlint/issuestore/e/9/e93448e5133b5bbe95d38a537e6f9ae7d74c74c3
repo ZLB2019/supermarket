@@ -1,0 +1,15 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì„ğüÿÿÿÿ8¼•º‘ì.
+t
+java:S3008"RRename this field "NameInt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÛŒşüÿÿÿÿ8´òÔÂì.
+O
+java:S1444"-Make this "public static NameInt" field final(ëÛŒşüÿÿÿÿ8´òÔÂì.
+t	java:S116"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¶‡µúÿÿÿÿ8¼•º‘ì.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éÿ®¡ÿÿÿÿÿ8¼•º‘ì.
+	java:S116"eRename this field "registered_Yes_return_load" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ıóê8¼•º‘ì.
+:
+java:S2119*"Save and re-use this "Random".(¼İÅf8öê÷‘ì.
+u
+java:S1104"SMake NameInt a static final constant or non-public and provide accessors if needed.(ëÛŒşüÿÿÿÿ8´òÔÂì.
+X
+java:S2696+"6Make the enclosing method "static" or remove this set.(‰Ô®‡üÿÿÿÿ8Š›™’ì.

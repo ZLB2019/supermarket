@@ -1,0 +1,27 @@
+
+o	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¦œŸúÿÿÿÿ8ÉªÕ²í.
+>
+java:S1125}")Remove the literal "false" boolean value.(ºÏÿ[
+C
+java:S1604M"(Make this anonymous inner class a lambda(’®Êşÿÿÿÿ
+Q
+java:S2696~"6Make the enclosing method "static" or remove this set.(˜±¯üûÿÿÿÿ
+g
+java:S1104)"QMake glist a static final constant or non-public and provide accessors if needed.(èÒÍ
+K
+java:S2696"6Make the enclosing method "static" or remove this set.(¬îõ}
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(¸¢´Ú
+h
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(¦Ê—
+C
+java:S1604r"(Make this anonymous inner class a lambda(†‘ØĞıÿÿÿÿ
+V	java:S110W"<This class has 9 parents which is greater than 5 authorized.(ğ¼¦Õşÿÿÿÿ
+R
+java:S2696€"6Make the enclosing method "static" or remove this set.(€¼õ®úÿÿÿÿ
+M
+java:S2696‘"6Make the enclosing method "static" or remove this set.(×›äí
+u
+java:S1450'"SRemove the "user" field and declare it as a local variable in the relevant methods.(’Ø¾ıÿÿÿÿ8Áªı±í.
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(¥•Ä¹

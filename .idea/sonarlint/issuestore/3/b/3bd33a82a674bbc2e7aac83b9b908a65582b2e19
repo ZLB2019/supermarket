@@ -1,0 +1,14 @@
+
+c	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞøøÈ
+h	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¼ñºşÿÿÿÿ
+2
+java:S1700#"Rename field "addGoods"(¤ Ñèûÿÿÿÿ
+L
+java:S3740{"/Provide the parametrized type for this generic.(è‚†ê8˜ºË†î.
+b	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(å‹›×8˜ºË†î.
+G
+java:S5411?"*Use the primitive boolean expression here.(ÆÎ…8˜ºË†î.
+E
+java:S1604{"(Make this anonymous inner class a lambda(è‚†ê8˜ºË†î.
+F
+java:S1125?")Remove the literal "false" boolean value.(ÆÎ…8˜ºË†î.

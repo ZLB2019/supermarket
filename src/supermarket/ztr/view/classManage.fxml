@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane focusTraversable="true" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" nodeOrientation="LEFT_TO_RIGHT" prefHeight="589.0" prefWidth="481.0" style="-fx-background-color: #E0FFFF;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="supermarket.ztr.controller.ClassManage">
+   <children>
+      <ImageView fitHeight="649.0" fitWidth="500.0" layoutX="-4.0" layoutY="-56.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="file:///E:/supermarket/src/supermarket/ztr/image/add.jpg" />
+         </image>
+      </ImageView>
+      <Button fx:id="addClass" layoutX="288.0" layoutY="422.0" mnemonicParsing="false" onAction="#addClass" onMouseEntered="#add_Entered" onMouseExited="#add_Exited" opacity="0.88" prefHeight="54.0" prefWidth="115.0" style="-fx-background-color: #FFB6C1; -fx-background-radius: 6;" text="添  加" textFill="#ff6500e8">
+         <font>
+            <Font size="25.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor>
+      </Button>
+      <Label layoutX="175.0" layoutY="14.0" prefHeight="54.0" prefWidth="131.0" text="分类管理" textFill="#ff2e27">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </Label>
+      <TextField fx:id="name" layoutX="87.0" layoutY="422.0" opacity="0.87" prefHeight="54.0" prefWidth="177.0" promptText="分类名">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </TextField>
+      <ListView fx:id="classList" layoutX="87.0" layoutY="96.0" opacity="0.88" prefHeight="308.0" prefWidth="316.0" />
+   </children>
+   <opaqueInsets>
+      <Insets />
+   </opaqueInsets>
+   <cursor>
+      <Cursor fx:constant="DISAPPEAR" />
+   </cursor>
+</AnchorPane>
